@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">PetFinderApplication</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome</string>
+    <string name="register">REGISTER</string>
+    <string name="click_for_login">Click for Login</string>
+    <string name="click_for_register">Click for Register</string>
+    <string name="logout">Logout</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone">Phone</string>
+    <string name="user">User</string>
+    <string name="name">Name :</string>
+    <string name="main_email">Email :</string>
+    <string name="user_information">User Information</string>
+    <string name="click_for_account_information">Account Information</string>
+    <string name="email_acc">Email :</string>
+    <string name="username">UserName :</string>
+    <string name="password_acc">Password :</string>
+    <string name="phone_acc">Phone :</string>
+    <string name="refresh">Refresh</string>
+    <string name="change_username">Change UserName</string>
+    <string name="change_password">Change Password</string>
+    <string name="log_out">Log Out</string>
+    <string name="change_user_name">Change User Name</string>
+    <string name="enter_new_name">Enter New Name</string>
+    <string name="save">Save</string>
+    <string name="change_new_password">Change New Password</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="back">Back</string>
+    <string name="forget_password_click_here">Forget Password? Click Here</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="enter_registered_email">Enter Registered Email</string>
+    <string name="reset">Reset</string>
+
+
+</resources>

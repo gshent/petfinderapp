@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487253982490",
+    "project_id": "pet-finder-application",
+    "storage_bucket": "pet-finder-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487253982490:android:f8f07004d7fd82cc0e40a3",
+        "android_client_info": {
+          "package_name": "my.edu.utar.petfinderapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487253982490-6sgcvt5gs6jt2o63fvo0r7g6v91us0kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvrKt_nJJnlNRMeuYJg6htLVFtRUc63ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487253982490-6sgcvt5gs6jt2o63fvo0r7g6v91us0kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
